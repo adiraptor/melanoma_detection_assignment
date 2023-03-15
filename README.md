@@ -21,13 +21,12 @@ This project uses convolutional neural networks to try to accurately predict mal
 
 
 ## Technologies Used
-- tensorflow
-- Pillow
-- Augmentor
-- matplotlib
-- numpy
-- pandas
-- glob
+- tensorflow==2.11.0
+- Pillow==8.4.0
+- Augmentor==0.2.10
+- matplotlib==3.5.3
+- numpy==1.22.4
+- pandas==1.4.4
 
 ## Contact
 Created by [@adiraptor] - feel free to contact me!
